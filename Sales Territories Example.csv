@@ -1,0 +1,227 @@
+Country,Continent,Territory
+Angola,Africa,Europe
+Burkina Faso,Africa,Europe
+Burundi,Africa,Europe
+Benin,Africa,Europe
+Botswana,Africa,Europe
+Democratic Republic of the Congo,Africa,Europe
+Central African Republic,Africa,Europe
+Congo,Africa,Europe
+Ivory Coast,Africa,Europe
+Cameroon,Africa,Europe
+Cabo Verde,Africa,Europe
+Djibouti,Africa,Europe
+Algeria,Africa,Europe
+Egypt,Africa,Europe
+Ethiopia,Africa,Europe
+Gabon,Africa,Europe
+Ghana,Africa,Europe
+Gambia,Africa,Europe
+Guinea,Africa,Europe
+Equatorial Guinea,Africa,Europe
+Guinea-Bissau,Africa,Europe
+Kenya,Africa,Europe
+Comoros,Africa,Europe
+Liberia,Africa,Europe
+Lesotho,Africa,Europe
+Libya,Africa,Europe
+Morocco,Africa,Europe
+Madagascar,Africa,Europe
+Mali,Africa,Europe
+Mauritania,Africa,Europe
+Mauritius,Africa,Europe
+Malawi,Africa,Europe
+Mozambique,Africa,Europe
+Namibia,Africa,Europe
+Niger,Africa,Europe
+Nigeria,Africa,Europe
+Rwanda,Africa,Europe
+Seychelles,Africa,Europe
+Sudan,Africa,Europe
+Sierra Leone,Africa,Europe
+Senegal,Africa,Europe
+Somalia,Africa,Europe
+South Sudan,Africa,Europe
+Sao Tome and Principe,Africa,Europe
+Chad,Africa,Europe
+Togo,Africa,Europe
+Tunisia,Africa,Europe
+Tanzania,Africa,Europe
+Uganda,Africa,Europe
+South Africa,Africa,Europe
+Zambia,Africa,Europe
+Zimbabwe,Africa,Europe
+United Arab Emirates,Asia,APAC
+Afghanistan,Asia,APAC
+Armenia,Asia,APAC
+Azerbaijan,Asia,APAC
+Bangladesh,Asia,APAC
+Bahrain,Asia,APAC
+Brunei,Asia,APAC
+Bhutan,Asia,APAC
+China,Asia,APAC
+Georgia,Asia,APAC
+Hong Kong,Asia,APAC
+Indonesia,Asia,APAC
+Israel,Asia,APAC
+India,Asia,APAC
+Iraq,Asia,APAC
+Iran,Asia,APAC
+Jordan,Asia,APAC
+Japan,Asia,APAC
+Kyrgyzstan,Asia,APAC
+Cambodia,Asia,APAC
+South Korea,Asia,APAC
+Kuwait,Asia,APAC
+Kazakhstan,Asia,APAC
+Laos,Asia,APAC
+Lebanon,Asia,APAC
+Sri Lanka,Asia,APAC
+Myanmar,Asia,APAC
+Mongolia,Asia,APAC
+Maldives,Asia,APAC
+Malaysia,Asia,APAC
+Nepal,Asia,APAC
+Oman,Asia,APAC
+Philippines,Asia,APAC
+Pakistan,Asia,APAC
+Palestine,Asia,APAC
+Qatar,Asia,APAC
+Saudi Arabia,Asia,APAC
+Singapore,Asia,APAC
+Syria,Asia,APAC
+Thailand,Asia,APAC
+Tajikistan,Asia,APAC
+Timor-Leste,Asia,APAC
+Turkmenistan,Asia,APAC
+Turkey,Asia,APAC
+Taiwan,Asia,APAC
+Uzbekistan,Asia,APAC
+Vietnam,Asia,APAC
+Yemen,Asia,APAC
+Andorra,Europe,Europe
+Albania,Europe,Europe
+Armenia,Europe,Europe
+Austria,Europe,Europe
+Bosnia and Herzegovina,Europe,Europe
+Belgium,Europe,Europe
+Bulgaria,Europe,Europe
+Belarus,Europe,Europe
+Switzerland,Europe,Europe
+Cyprus,Europe,Europe
+Czechia,Europe,Europe
+Germany,Europe,Europe
+Denmark,Europe,Europe
+Estonia,Europe,Europe
+Spain,Europe,Europe
+Finland,Europe,Europe
+France,Europe,Europe
+Greece,Europe,Europe
+Croatia,Europe,Europe
+Hungary,Europe,Europe
+Ireland,Europe,Europe
+Iceland,Europe,Europe
+Italy,Europe,Europe
+Liechtenstein,Europe,Europe
+Lithuania,Europe,Europe
+Luxembourg,Europe,Europe
+Latvia,Europe,Europe
+Monaco,Europe,Europe
+Moldova,Europe,Europe
+Montenegro,Europe,Europe
+Macedonia,Europe,Europe
+Malta,Europe,Europe
+Netherlands,Europe,Europe
+Norway,Europe,Europe
+Poland,Europe,Europe
+Portugal,Europe,Europe
+Romania,Europe,Europe
+Serbia,Europe,Europe
+Russia,Europe,Europe
+Sweden,Europe,Europe
+Slovenia,Europe,Europe
+Slovakia,Europe,Europe
+San Marino,Europe,Europe
+Ukraine,Europe,Europe
+United Kingdom,Europe,Europe
+Vatican City,Europe,Europe
+Kosovo,Europe,Europe
+Antigua and Barbuda,North America,Americas
+Anguilla,North America,Americas
+Aruba (Netherlands),North America,Americas
+Barbados,North America,Americas
+Saint Barthelemy,North America,Americas
+Bermuda,North America,Americas
+Bonaire (Netherlands),North America,Americas
+Bahamas,North America,Americas
+Belize,North America,Americas
+Canada,North America,Americas
+Costa Rica,North America,Americas
+Cuba,North America,Americas
+Curacao,North America,Americas
+Dominica,North America,Americas
+Dominican Republic,North America,Americas
+Grenada,North America,Americas
+Greenlands,North America,Americas
+Guadeloupe,North America,Americas
+Guatemala,North America,Americas
+Honduras,North America,Americas
+Haiti,North America,Americas
+Jamaica,North America,Americas
+Saint Kitts and Nevis,North America,Americas
+Cayman Islands,North America,Americas
+Saint Lucia,North America,Americas
+Saint Martin,North America,Americas
+Martinique,North America,Americas
+Montserrat,North America,Americas
+Mexico,North America,Americas
+Nicaragua,North America,Americas
+Panama,North America,Americas
+Saint Pierre and Miquelon,North America,Americas
+Puerto Rico,North America,Americas
+El Salvador,North America,Americas
+Sint Maarten,North America,Americas
+Turks and Caicos,North America,Americas
+Trinidad and Tobago,North America,Americas
+United States,North America,Americas
+Saint Vincent and the Grenadines,North America,Americas
+British Virgin Islands,North America,Americas
+US Virgin Islands,North America,Americas
+American Samoa,Oceana,APAC
+Australia,Oceana,APAC
+Cook Islands,Oceana,APAC
+Fiji,Oceana,APAC
+Micronesia,Oceana,APAC
+Guam,Oceana,APAC
+Kiribati,Oceana,APAC
+Marshall Islands,Oceana,APAC
+Northern Mariana Islands,Oceana,APAC
+New Caledonia,Oceana,APAC
+Norfolk Island,Oceana,APAC
+Nauru,Oceana,APAC
+Niue,Oceana,APAC
+New Zealand,Oceana,APAC
+French Polynesia,Oceana,APAC
+Papua New Guinea,Oceana,APAC
+Pitcairn Islands,Oceana,APAC
+Palau,Oceana,APAC
+Solomon Islands,Oceana,APAC
+Tokelau,Oceana,APAC
+Tonga,Oceana,APAC
+Tuvalu,Oceana,APAC
+Wake Island,Oceana,APAC
+Vanuatu,Oceana,APAC
+Wallis and Futuna,Oceana,APAC
+Samoa,Oceana,APAC
+Argentina,South America,Americas
+Bolivia,South America,Americas
+Brazil,South America,Americas
+Chile,South America,Americas
+Colombia,South America,Americas
+Ecuador,South America,Americas
+Guyana,South America,Americas
+Peru,South America,Americas
+Paraguay,South America,Americas
+Suriname,South America,Americas
+Uruguay,South America,Americas
+Venezuela,South America,Americas
